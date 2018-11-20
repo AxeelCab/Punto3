@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541977738 source:c:\users\axel\desktop\tp-iv\punto3.\punto3.c
+	<stdio.h>
+
+1542435339 source:c:\users\axel\desktop\tp-iv\punto3\punto3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542718279 source:c:\users\axel\desktop\tp-iv\punto3 no!\punto3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
